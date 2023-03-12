@@ -2,8 +2,8 @@
 
 ## Integrantes
 
-- Silvio Otero Guzman - Ingeniería de Sistemas
-- Daniela Gonzales Estrada - Ingeniería Civil
+- Silvio Otero Guzman - C.c. 1071357464 - Ingeniería de Sistemas
+- Daniela Gonzales Estrada - C.c. 1000559195 - Ingeniería Civil
 
 
 ## Enlace a los datos originales

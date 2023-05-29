@@ -13,3 +13,7 @@ https://www.kaggle.com/competitions/forest-cover-type-prediction/data
 ## Enlace del video de la segunda entrega
 
 https://youtube.com/shorts/ypUdaITk8pA?feature=share
+
+## Enlace del video de la ÚLtima entrega
+
+https://youtu.be/8ofU0c1gIKU
